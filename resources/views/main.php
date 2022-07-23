@@ -3,21 +3,21 @@
 ?>
 <section class="hero-section">
     <div class="card-grid">
-      <a class="card" href="#">
+      <a class="card" href="/battle">
         <div class="card__background" style="background-image: url('<?= $_ENV['ASSET_IMG'] ?>/battle_icon.png')"></div>
         <div class="card__content">
           <p class="card__category">match Start</p>
           <h3 class="card__heading">배틀 시작</h3>
         </div>
       </a>
-      <a class="card" href="#">
+      <a class="card" href="/disk">
         <div class="card__background" style="background-image: url('<?= $_ENV['ASSET_IMG'] ?>/disk_information.png')"></div>
         <div class="card__content">
           <p class="card__category">disk information competition</p>
           <h3 class="card__heading">디스크 정보 입력</h3>
         </div>
       </a>
-      <a class="card" href="#">
+      <a class="card" href="/match">
         <div class="card__background" style="background-image: url('<?= $_ENV['ASSET_IMG'] ?>/battle_write.png')"></div>
         <div class="card__content">
           <p class="card__category">match tournament competition</p>
