@@ -1,0 +1,5 @@
+.env
+vendor/
+.htaccess
+robot.txt
+resources/upload

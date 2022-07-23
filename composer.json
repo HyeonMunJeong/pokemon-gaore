@@ -1,0 +1,14 @@
+{
+    "config": {
+        "platform": {
+            "php": "7.4.0"
+        }
+    },
+    "require": {
+        "nesbot/carbon": "^2.16",
+        "pecee/simple-router": "4.3.7.2",
+        "phpmailer/phpmailer": "^6.6",
+        "filp/whoops": "^2.14",
+        "symfony/dotenv": "^5.4"
+    }
+}
